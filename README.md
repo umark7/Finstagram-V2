@@ -1,7 +1,10 @@
 # Finstagram
-Finstagram is a photo sharing app similar to Instagram but using Parse as its backend.
+Finstagram is a photo sharing app similar to Instagram, but made from scratch with a full backend and frontend.
+**V1** was an implementation of the backend and a basic frontend to set up the site. 
+**V2** brings in a fully working backend and frontend, with options to post pictures, videos, comments, and profile viewing!
+**V3** is currently in the works and will add: better, fluid UI/UX similar to Instagram, reduced latency timings for accessing the app by hosting on Heroku, and a "Explore" feature!
 
-Time spent: **10** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
@@ -14,13 +17,10 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] User sees app icon in home screen and styled bottom navigation view
+- [X] User sees app icon in home screen and styled bottom navigation view
 - [ ] Style the feed to look like the real Instagram feed.
-- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
+- [X] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+V3 in the works, scheduled deploy date is in early May/June
 
 ## Open-source libraries used
 
